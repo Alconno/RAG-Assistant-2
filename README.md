@@ -4,11 +4,14 @@ This project is a simple Retrieval-Augmented Generation (RAG) system
 that ingests files (PDFs, images, etc.), converts them to text, stores
 them in a vector database, and enables querying through an LLM.
 
+## Video showcase
+https://youtu.be/DSYaD3Y3eio
+
 ## Setup
 
 ``` bash
-git clone <repo>
-cd <repo>
+git clone https://github.com/Alconno/RAG-Assistant-2
+cd RAG-Assistant-2
 ```
 
 Install dependencies (use separate environments):
