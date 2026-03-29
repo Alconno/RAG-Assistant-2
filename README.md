@@ -5,7 +5,7 @@ that ingests files (PDFs, images, etc.), converts them to text, stores
 them in a vector database, and enables querying through an LLM.
 
 ## Video showcase
-https://youtu.be/DSYaD3Y3eio
+https://youtu.be/eLiIXUyKF7Y
 
 ## Setup
 
